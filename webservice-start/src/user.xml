@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user xsi:schemaLocation="http://www.example.org/Schema" xmlns:tns="http://www.example.org/Schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>0</id>
+	<username>String</username>
+	<born>1967-08-13</born>
+</user>
